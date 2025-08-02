@@ -1,0 +1,26 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "index": 0, "indice_requete": -1, "est_origine": false }, "geometry": { "type": "Point", "coordinates": [ 0.1058796, 49.5299138 ] } },
+{ "type": "Feature", "properties": { "index": 1, "indice_requete": 0, "est_origine": true }, "geometry": { "type": "Point", "coordinates": [ 0.089727, 49.5164509 ] } },
+{ "type": "Feature", "properties": { "index": 2, "indice_requete": 0, "est_origine": false }, "geometry": { "type": "Point", "coordinates": [ 0.1350076, 49.5040154 ] } },
+{ "type": "Feature", "properties": { "index": 3, "indice_requete": 1, "est_origine": true }, "geometry": { "type": "Point", "coordinates": [ 0.1954431, 49.5469437 ] } },
+{ "type": "Feature", "properties": { "index": 4, "indice_requete": 1, "est_origine": false }, "geometry": { "type": "Point", "coordinates": [ 0.092627, 49.5198349 ] } },
+{ "type": "Feature", "properties": { "index": 5, "indice_requete": 2, "est_origine": true }, "geometry": { "type": "Point", "coordinates": [ 0.2000739, 49.5007926 ] } },
+{ "type": "Feature", "properties": { "index": 6, "indice_requete": 2, "est_origine": false }, "geometry": { "type": "Point", "coordinates": [ 0.2390076, 49.5042955 ] } },
+{ "type": "Feature", "properties": { "index": 7, "indice_requete": 3, "est_origine": true }, "geometry": { "type": "Point", "coordinates": [ 0.1089584, 49.4857691 ] } },
+{ "type": "Feature", "properties": { "index": 8, "indice_requete": 3, "est_origine": false }, "geometry": { "type": "Point", "coordinates": [ 0.1245411, 49.5058062 ] } },
+{ "type": "Feature", "properties": { "index": 9, "indice_requete": 4, "est_origine": true }, "geometry": { "type": "Point", "coordinates": [ 0.0883943, 49.5185226 ] } },
+{ "type": "Feature", "properties": { "index": 10, "indice_requete": 4, "est_origine": false }, "geometry": { "type": "Point", "coordinates": [ 0.1013227, 49.4876206 ] } },
+{ "type": "Feature", "properties": { "index": 11, "indice_requete": 5, "est_origine": true }, "geometry": { "type": "Point", "coordinates": [ 0.1528649, 49.5045246 ] } },
+{ "type": "Feature", "properties": { "index": 12, "indice_requete": 5, "est_origine": false }, "geometry": { "type": "Point", "coordinates": [ 0.0877055, 49.519153 ] } },
+{ "type": "Feature", "properties": { "index": 13, "indice_requete": 6, "est_origine": true }, "geometry": { "type": "Point", "coordinates": [ 0.118536, 49.5045224 ] } },
+{ "type": "Feature", "properties": { "index": 14, "indice_requete": 6, "est_origine": false }, "geometry": { "type": "Point", "coordinates": [ 0.169437, 49.5067837 ] } },
+{ "type": "Feature", "properties": { "index": 15, "indice_requete": 7, "est_origine": true }, "geometry": { "type": "Point", "coordinates": [ 0.1458263, 49.4877439 ] } },
+{ "type": "Feature", "properties": { "index": 16, "indice_requete": 7, "est_origine": false }, "geometry": { "type": "Point", "coordinates": [ 0.1766824, 49.5095485 ] } },
+{ "type": "Feature", "properties": { "index": 17, "indice_requete": 8, "est_origine": true }, "geometry": { "type": "Point", "coordinates": [ 0.10422, 49.485104 ] } },
+{ "type": "Feature", "properties": { "index": 18, "indice_requete": 8, "est_origine": false }, "geometry": { "type": "Point", "coordinates": [ 0.1807213, 49.5451706 ] } },
+{ "type": "Feature", "properties": { "index": 19, "indice_requete": 9, "est_origine": true }, "geometry": { "type": "Point", "coordinates": [ 0.0753627, 49.5063268 ] } },
+{ "type": "Feature", "properties": { "index": 20, "indice_requete": 9, "est_origine": false }, "geometry": { "type": "Point", "coordinates": [ 0.1626356, 49.5011493 ] } }
+]
+}

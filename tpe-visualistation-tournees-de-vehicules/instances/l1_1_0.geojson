@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "index": 0, "indice_requete": -1, "est_origine": false }, "geometry": { "type": "Point", "coordinates": [ 0.1058796, 49.5299138 ] } },
+{ "type": "Feature", "properties": { "index": 1, "indice_requete": 0, "est_origine": true }, "geometry": { "type": "Point", "coordinates": [ 0.1307279, 49.5049162 ] } },
+{ "type": "Feature", "properties": { "index": 2, "indice_requete": 0, "est_origine": false }, "geometry": { "type": "Point", "coordinates": [ 0.0897833, 49.5166495 ] } }
+]
+}

@@ -1,0 +1,19 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Parc jardin", "index": 23 }, "geometry": { "type": "Point", "coordinates": [ 0.19771753153084717, 49.545981616644426 ] } },
+{ "type": "Feature", "properties": { "name": "Cité des Abbesses", "index": 24 }, "geometry": { "type": "Point", "coordinates": [ 0.18895825802009492, 49.54296276142347 ] } },
+{ "type": "Feature", "properties": { "name": "Les Arts", "index": 25 }, "geometry": { "type": "Point", "coordinates": [ 0.18131364808063727, 49.53473941159127 ] } },
+{ "type": "Feature", "properties": { "name": "Hôpital J.Monod", "index": 26 }, "geometry": { "type": "Point", "coordinates": [ 0.18620605955128464, 49.52678376925445 ] } },
+{ "type": "Feature", "properties": { "name": "Beaulieu", "index": 27 }, "geometry": { "type": "Point", "coordinates": [ 0.18969788968922924, 49.51129621263856 ] } },
+{ "type": "Feature", "properties": { "name": "Coeur historique", "index": 28 }, "geometry": { "type": "Point", "coordinates": [ 0.19540686701744586, 49.505017435895795 ] } },
+{ "type": "Feature", "properties": { "name": "Soquence", "index": 29 }, "geometry": { "type": "Point", "coordinates": [ 0.17820554399024213, 49.50071073111027 ] } },
+{ "type": "Feature", "properties": { "name": "Stade Océane", "index": 30 }, "geometry": { "type": "Point", "coordinates": [ 0.17127036713209604, 49.50093408993121 ] } },
+{ "type": "Feature", "properties": { "name": "Graville", "index": 31 }, "geometry": { "type": "Point", "coordinates": [ 0.16161765325683325, 49.50008428890932 ] } },
+{ "type": "Feature", "properties": { "name": "Jaurès", "index": 32 }, "geometry": { "type": "Point", "coordinates": [ 0.1520676698683207, 49.498874708323164 ] } },
+{ "type": "Feature", "properties": { "name": "Parc F.Mitterand", "index": 33 }, "geometry": { "type": "Point", "coordinates": [ 0.1431070959285101, 49.49805446455351 ] } },
+{ "type": "Feature", "properties": { "name": "Sainte-Marie", "index": 34 }, "geometry": { "type": "Point", "coordinates": [ 0.1363679647950527, 49.49765371874745 ] } },
+{ "type": "Feature", "properties": { "name": "Université", "index": 7 }, "geometry": { "type": "Point", "coordinates": [ 0.127048, 49.4961896 ] } }
+]
+}
